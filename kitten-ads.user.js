@@ -2,7 +2,7 @@
 // @name         Kittens for FetLife Ad picturess
 // @description  Replace all Ads with kittens until hovered over.
 // @version      1.0
-// @namespace      com.jaeckel.kitten.ad
+// @namespace      com.diskordia.kitten.ad
 // @include        *fetlife.com/*
 //
 // ==/UserScript==
