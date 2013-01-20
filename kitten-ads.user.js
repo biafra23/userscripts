@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Kittens for FetLife Ad picturess
+// @name         Kittens for FetLife Ad pictures
 // @description  Replace all Ads with kittens until hovered over.
 // @version      1.0
 // @namespace      com.diskordia.kitten.ad
