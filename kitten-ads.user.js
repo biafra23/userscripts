@@ -43,7 +43,8 @@ function handleImage(img) {
   var style = window.getComputedStyle(img);
   var width = parseInt(style.width, 10);
   var height = parseInt(style.height, 10);
-  var kitten = kittens[src] = kittens[src] || "http://placekitten.com/" + width + "/" + height + "?image=" + (kittenIndex = kittenIndex % 160 + 1);
+  var randomnumber = Math.floor(Math.random() * 17);
+  var kitten = kittens[src] = kittens[src] || "http://placekitten.com/" + width + "/" + height + "?image=" + randomnumber;
 
   if (!(src in over)) images[src] = [];
 
